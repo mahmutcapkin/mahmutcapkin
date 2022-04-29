@@ -29,3 +29,4 @@
 
 ![Mahmut's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmutcapkin&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutcapkin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutcapkin&style=flat"/> </p>
